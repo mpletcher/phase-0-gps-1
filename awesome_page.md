@@ -7,4 +7,4 @@ git clone: used to clonr a repo
 git branch: used to list branches
 git check -b: used to create new branches
 git branch <name-of-branch>: used to create the branch
-git status: it shows the status of our files in the branch
+git status: it shows the status of our files in the branch.
