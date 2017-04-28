@@ -2,7 +2,9 @@ Hey Kit,
 Sorry we reverted.  Our Bad.  We created a new file to redo this all again before we get to merge conflict!.  Sorry!!!
 
 **By Pletcher:**
+
 *Yes, I  with th*
+
 
 
 **git clone: used to clone a repo**
@@ -18,3 +20,5 @@ Link - [link](https://github.com/evilstreak/markdown-js)
 
 Inline-style:
 ![alt text](file.png "screenshot of our work")
+
+Ah, i think i was suppose to do release 4 part - joseph
