@@ -1,6 +1,6 @@
 git clone: used to clonr a repo
 touch: used to create files
-git add: files are stagged to commit
+git add: files are 
 git commit: files are committed to the branch
 git push origin master: files are uploaded to the GitHub repo
 git clone: used to clonr a repo

@@ -2,7 +2,7 @@ Hey Kit,
 Sorry we reverted.  Our Bad.  We created a new file to redo this all again before we get to merge conflict!.  Sorry!!!
 
 **By Pletcher:**
-*Yes, I agree with that!*
+*Yes, I agree that!*
 
 
 **git clone: used to clone a repo**
