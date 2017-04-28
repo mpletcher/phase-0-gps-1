@@ -2,7 +2,7 @@ Hey Kit,
 Sorry we reverted.  Our Bad.  We created a new file to redo this all again before we get to merge conflict!.  Sorry!!!
 
 **By Pletcher:**
-*Yes, I agree with that!*
+*Yes, I  with th*
 
 
 **git clone: used to clone a repo**
@@ -10,7 +10,7 @@ Sorry we reverted.  Our Bad.  We created a new file to redo this all again befor
 git commit: files are committed to the branch
 git push origin master: files are uploaded to the GitHub repo
 git clone: used to clone a repo
-git branch: used to list branches
+git branch:ist branches
 git check -b: used to create new branches
 git branch <name-of-branch>: used to create the branch
 `git status: it shows the status of our files in the branch.`
